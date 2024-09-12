@@ -16,7 +16,7 @@ Para rodar este projeto localmente, você precisará das seguintes ferramentas i
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/repo.git
+   git clone https://github.com/Naliat/EntregaFinalFBD/
    ```
 
 2. Crie um ambiente virtual:
