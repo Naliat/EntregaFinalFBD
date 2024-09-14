@@ -11,7 +11,7 @@ Para rodar este projeto localmente, você precisará das seguintes ferramentas i
 - Python 3.7+
 - PostgreSQL
 - Biblioteca `psycopg2` para conectar ao banco de dados PostgreSQL
-
+  
 ## Instalação
 
 1. Clone o repositório:
@@ -230,8 +230,6 @@ Isso lança a interface no navegador localmente, onde as operações de CRUD pod
 
 Este código fornece uma solução completa para o gerenciamento de remédios com uma interface gráfica interativa, permitindo criar, ler, atualizar e excluir registros no banco de dados PostgreSQL de forma intuitiva.
 
-
-Este conteúdo pode ser incluído diretamente na sua documentação, explicando o funcionamento do código.
 
 ## Contribuição
 
