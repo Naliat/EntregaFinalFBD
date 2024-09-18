@@ -105,7 +105,7 @@ Este código cria uma interface interativa para o gerenciamento de remédios uti
 
 ## Configuração do Banco de Dados
 
-Certifique-se de que o PostgreSQL está rodando e crie o esquema e a tabela de `remedio` no banco de dados `Gerenciamento_Remedios`:
+Certifique-se de que o PostgreSQL está rodando e crie o esquema e a tabela de `remedio` no banco de dados `Sistemarm`:
 
 ```sql
 CREATE SCHEMA farmacia;
@@ -125,7 +125,7 @@ db_config = {
     'password': '1412',
     'host': 'localhost',
     'port': '5432',
-    'database': 'Gerenciamento_Remedios'
+    'database': 'Sistemarm'
 }
 ```
 
